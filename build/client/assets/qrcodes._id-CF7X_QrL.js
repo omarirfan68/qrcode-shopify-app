@@ -1,0 +1,1 @@
+import{w as e,u as r,j as t}from"./chunk-WWGJGFF6-C-7sk41n.js";const i=e(function(){const{image:o,title:s}=r();return t.jsxs(t.Fragment,{children:[t.jsx("h1",{children:s}),t.jsx("img",{src:o,alt:"QR Code for product"})]})});export{i as default};
